@@ -12,13 +12,13 @@ Welcome, this is my automation porto page
   Custom assertions & utilities
   Easy to integrate with CI/CD  
   
-- [API Automation with Rest Assured and TestNg](https://github.com/nonadiaputri/restAssured-testng-ApiAutomation/tree/master/RestAssuredApiTutorial)
-  End to end testing for api using rest Assured and testNg
-**Highlights:**
-  Data-driven API test framework
-  Request/response validation
-  Uses POJO for clean payload handling
-  Maven project structure with extensible modules
+- [API Automation with Rest Assured and TestNg](https://github.com/nonadiaputri/restAssured-testng-ApiAutomation/tree/master/RestAssuredApiTutorial)  
+  End to end testing for api using rest Assured and testNg  
+**Highlights:**  
+  Data-driven API test framework  
+  Request/response validation  
+  Uses POJO for clean payload handling  
+  Maven project structure with extensible modules  
 
 
 
