@@ -8,10 +8,10 @@ Welcome, this is my automation porto page
   Framework automation for API testing using Python + Pytest.
 
 - [Mobile Automation with maestro.dev](https://github.com/nonadiaputri/maestro-automation)
-  End-to-end testing for mobile apps using maestro.dev
+   End-to-end testing for mobile apps using maestro.dev
   
 - 
-  End to end testing for api using rest Assured and testNg
+   End to end testing for api using rest Assured and testNg
   
 
   
